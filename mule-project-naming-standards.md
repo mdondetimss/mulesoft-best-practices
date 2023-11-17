@@ -1,4 +1,4 @@
 ## Mule4 Project Naming Standards
-| Artifact Type | Naming convention  | Example |comments|
+| Artifact Type | Naming Convention  | Format | Example|
 | ------- | ----- | ------------- | ------------- |
-| *POST* | ```/auth/signup/``` | _Register new user_| _All users_|
+| *Project Name* | _Use a descriptive, concise, and unique name_ | _MyAwesomeIntegration_| _MyAwesomeIntegration_|
