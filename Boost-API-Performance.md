@@ -25,4 +25,4 @@
 
 ## 5 Methods to Improve API Performance
 
-![Mule Best Practices](https://github.com/yamini-sangam/mulesoft-best-practices/blob/main/Mule%20Best%20Practices.gif)
+![Mule-Best-Practices](boost-api-performance.gif)
